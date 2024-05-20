@@ -1,4 +1,4 @@
-# Ahsan Akbar's GitHub Profile
+# Muhammad Ahsan's GitHub Profile
 
 ## Badges
 [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-Expert-red)](https://rubyonrails.org/)
